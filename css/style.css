@@ -31,7 +31,7 @@ body {
   font: normal 1em/1.45em "Helvetica Neue", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #fff;
-  background: radial-gradient(ellipse at bottom, #04346f 0%, #010810 100%);
+  background: radial-gradient(ellipse at bottom, #red 0%, #010810 100%);
   background-attachment: fixed;
 }
 
